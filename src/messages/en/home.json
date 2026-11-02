@@ -1,0 +1,41 @@
+
+{
+    "eyebrow": "BROWSE CATEGORIES",
+    "title": "Explore by Category",
+    "description": "Discover the best gaming, computer, and electronics products.",
+    "viewAll": "View All Products",
+    "categories": {
+      "keyboards": "Keyboards",
+      "gaming-mice": "Gaming Mice",
+      "headphones-audio": "Headphones & Audio",
+      "monitors": "Monitors",
+      "controllers": "Controllers",
+      "pc-components": "PC Components"
+    
+  },
+
+
+    "about": "Egypt's premier hub for genuine esports components, next-gen consoles, and bespoke liquid-cooled rigs. Direct brand-certified stock backed by local warranty.",
+    "verified": "100% Genuine Tech Verified",
+    "support": {
+      "title": "Customer Support",
+      "links": {
+        "tracking": "Aramex Real-Time Tracking",
+        "returns": "Return & 14-Day Refund Policy",
+        "warranty": "Egypt Official Warranty & Authenticity",
+        "terms": "Terms of Service & EULA",
+        "hubs": "Cairo & Giza Walk-In Hubs"
+      }
+    },
+    "logistics": {
+      "title": "Express Logistics",
+      "badge": "Official Partner",
+      "body": "Next-day Cairo, Giza, and Alexandria fulfillment. Fully insured high-value GPU and console transit protection."
+    },
+    "payments": {
+      "title": "Authorized Payment Methods",
+      "body": "Fast, encrypted checkouts supported across Egyptian financial gateways.",
+      "cod": "Cash on Delivery (COD) supported nationwide."
+    },
+    "copyright": "© {year} Games Station Egypt. Play Beyond Limits. All rights reserved."
+  }

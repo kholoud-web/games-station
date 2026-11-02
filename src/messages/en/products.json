@@ -1,0 +1,13 @@
+
+{
+  "search": {
+    "label": "Search products",
+    "placeholder": "Search by product name, SKU or brand...",
+    "submit": "Search",
+    "clear": "Clear search",
+    "loading": "Searching products...",
+    "noResults": "No products found",
+    "error": "Something went wrong. Please try again.",
+    "resultsCount": "{count} products found"
+  }
+}
